@@ -1,3 +1,5 @@
+[Note] This is experimental repository. 
+
 To do list (subtitle: test out array, js expression in typescript.)
 
 # Objective:
@@ -11,3 +13,6 @@ To do list (subtitle: test out array, js expression in typescript.)
 # Problem:
 - Consider adding cancellation line to checked box. 
 - Better to refer another todolist form.
+
+# Tech note:
+- uuidV4 is used in case of accidental mixture by generating a (future) new task.
